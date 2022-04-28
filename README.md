@@ -14,7 +14,7 @@
 ### <a href="https://jhabarsingh.github.io/DSALGO-VISUALIZER/" >DSALGO VISUALIZER INCLUDES</a>
 
 **DATA STRUCTURES**
- 1.  [Array](http://jhabarsinghbhati.me/DSALGO-VISUALIZER/templates/array.html)
+ 1.  [Array]
  2.  [Matrix](http://jhabarsinghbhati.me/DSALGO-VISUALIZER/templates/matrix.html)
  3.  [Stack](http://jhabarsinghbhati.me/DSALGO-VISUALIZER/templates/stack.html)
  4.  [Queue](http://jhabarsinghbhati.me/DSALGO-VISUALIZER/templates/queue.html)
